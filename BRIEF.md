@@ -22,7 +22,7 @@ Nome usato come marchio testuale, senza ricostruire o inventare il logo ufficial
 Hero fotografica, presentazione, tre aree dell'offerta, galleria di 4 immagini del locale,
 collegamenti ai canali del locale, contatto e posizione con mappa esterna su azione esplicita.
 Nessun embed o risorsa di terzi caricata in automatico.
-Pulsante mobile fisso verso il canale verificato: https://wa.me/message/IUKCBCC25567F1.
+Pulsante mobile fisso verso il canale verificato: <https://wa.me/message/IUKCBCC25567F1>.
 Titolo proposto: Un acento irlandés. Un rincón de Ruzafa..
 Testi originali riformulati sui soli servizi supportati dalle fonti; non recensioni o risultati inventati.
 
@@ -54,7 +54,6 @@ pubblicazione definitiva, verificando i diritti. Questa nota non autorizza la de
 - Sorgente: branch `main`, cartella root, `.nojekyll`.
 - GitHub Pages: stato `built`; pagina, CSS e tutte le foto della demo rispondono HTTP 200.
 - Demo aperta e verificata nel browser il 2 novembre 2026.
-
 
 ## Da verificare
 
