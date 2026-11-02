@@ -1,0 +1,100 @@
+{
+  "web": {
+    "slug": "metropolis",
+    "repository": "https://github.com/profondosud/rivela-metropolis",
+    "pages_url": "https://profondosud.github.io/rivela-metropolis/",
+    "pages_status": "built",
+    "home": {
+      "url": "https://profondosud.github.io/rivela-metropolis/",
+      "status": 200,
+      "bytes": 8239
+    },
+    "assets": [
+      {
+        "url": "https://profondosud.github.io/rivela-metropolis/styles.css",
+        "status": 200,
+        "bytes": 15713
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-metropolis/images/metropolis-01.webp",
+        "status": 200,
+        "bytes": 194876
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-metropolis/images/metropolis-02.webp",
+        "status": 200,
+        "bytes": 61618
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-metropolis/images/metropolis-03.webp",
+        "status": 200,
+        "bytes": 106128
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-metropolis/images/metropolis-04.webp",
+        "status": 200,
+        "bytes": 95252
+      }
+    ],
+    "cliente": "Metropolis"
+  },
+  "browser": {
+    "slug": "metropolis",
+    "sizes": [
+      {
+        "brokenImages": [],
+        "client": 305,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 305,
+        "viewport": 320
+      },
+      {
+        "brokenImages": [],
+        "client": 375,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 375,
+        "viewport": 390
+      },
+      {
+        "brokenImages": [],
+        "client": 753,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 753,
+        "viewport": 768
+      },
+      {
+        "brokenImages": [],
+        "client": 1265,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 1265,
+        "viewport": 1280
+      }
+    ]
+  },
+  "mobile": {
+    "slug": "metropolis",
+    "focus": {
+      "focusVisible": true,
+      "outline": "solid",
+      "tag": "A"
+    },
+    "contact": {
+      "hash": "#visita",
+      "mobileAction": [
+        {
+          "height": 52,
+          "href": "https://wa.me/message/IUKCBCC25567F1",
+          "visible": true
+        }
+      ],
+      "overflow": false,
+      "phone": [
+        "tel:+34648697574"
+      ]
+    }
+  }
+}
